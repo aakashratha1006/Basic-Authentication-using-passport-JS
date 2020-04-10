@@ -2,3 +2,5 @@
 SERVER-SIDE FRAMEWORK : Express JS
 BACK-END              : Node JS
 DATABASE              : Mongo DB
+
+Used Express-sessions
